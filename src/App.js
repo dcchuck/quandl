@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import quandlLogo from './Quandl-logo.png';
-import './App.css';
 import apiKey from './apiKey';
 import * as moment from 'moment';
 import * as ReactHighstock from 'react-highcharts/ReactHighstock.src';
